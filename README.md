@@ -2,10 +2,10 @@
 <h3 align="center">A Passionate FiveM Developer from Sri Lanka</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br>
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharuksha&label=Profile%20views&color=0e75b6&style=flat" alt="tharuksha" /> </p><br>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tharuksha&label=Profile%20views&color=0e75b6&style=flat" alt="tharuksha" /> </p><br>
+<br><br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharuksha" alt="tharuksha" /></a> </p>
 
 - 🌱 I’m currently learning **Lua Language**
