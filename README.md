@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Lua Language**
 
-- 📫 How to reach me **tharukshawickramarachchi@gmail.com**
+- 📫 How to reach me **tharuksha_w@pm.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
