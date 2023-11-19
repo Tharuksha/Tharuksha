@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharuksha Wickramarachchi</h1>
-<h3 align="center">A Passionate FiveM Developer from Sri Lanka</h3>
+<h3 align="center">A Passionate Software Engineer from Sri Lanka</h3>
 
 <br>
 <img class="center" alt="Coding" width="1000" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br>
