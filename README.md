@@ -1,132 +1,145 @@
-# 🌟 Tharuksha Wickramarachchi | Tech Innovator
+# 🌠 Tharuksha Wickramarachchi | Digital Architect
 
-## 🚀 Digital Persona
+## 💫 Quantum Profile Dynamics
 
-### 🔮 Dynamic Introduction
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=00F7F7&center=true&vCenter=true&width=700&lines=Software+Engineer+%F0%9F%92%BB;Game+Development+Wizard+%F0%9F%8E%AE;Cloud+Technology+Architect+%E2%98%81%EF%B8%8F;Innovation+Catalyst+%F0%9F%94%AC)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Tharuksha%20Wickramarachchi&fontSize=40&fontColor=fff&animation=fadeIn" alt="Profile Header"/>
+</div>
 
-## 🌈 Multidimensional Tech Ecosystem
+### 🚀 Technological Resonance
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00F7F7&center=true&vCenter=true&width=900&lines=💻+Software+Engineer+%7C+Game+Developer+%7C+Cloud+Innovator+%7C+Tech+Visionary)](https://git.io/typing-svg)
 
-### 💻 Technology Spectrum
+## 🌈 Technological Constellation
+
+### 💡 Technology Ecosystem
 <table align="center">
   <tr>
-    <td align="center" width="30%">
-      <img src="https://skillicons.dev/icons?i=cpp,c,java,js,php" alt="Programming Languages" />
-      <br>Programming Languages
+    <td align="center" width="33%">
+      <h3>🔧 Languages & Frameworks</h3>
+      <img src="https://skillicons.dev/icons?i=cpp,c,java,js,php,python,html,css,lua" alt="Programming Languages" />
     </td>
-    <td align="center" width="30%">
-      <img src="https://skillicons.dev/icons?i=unity,unreal,blender,arduino" alt="Development Platforms" />
-      <br>Development Platforms
+    <td align="center" width="33%">
+      <h3>🎮 Development Platforms</h3>
+      <img src="https://skillicons.dev/icons?i=unity,unreal,blender,arduino,raspberrypi" alt="Development Platforms" />
     </td>
-    <td align="center" width="30%">
-      <img src="https://skillicons.dev/icons?i=aws,azure,linux,mysql,git" alt="Cloud & Tools" />
-      <br>Cloud & Infrastructure
+    <td align="center" width="33%">
+      <h3>☁️ Cloud & Infrastructure</h3>
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,git,github" alt="Cloud & Tools" />
     </td>
   </tr>
 </table>
 
-### 🔬 Technology Proficiency
-```typescript
-const tharuksha = {
-  coreSkills: ['Software Engineering', 'Game Development', 'Cloud Architecture'],
-  currentlyLearning: ['Lua', 'AI/ML', 'Advanced Cloud Technologies'],
-  passionDrivers: ['Innovation', 'Problem Solving', 'Continuous Learning']
+### 🔬 Technological DNA
+```javascript
+const digitalDNA = {
+  coreCompetencies: [
+    'Innovative Software Engineering',
+    'Game Development Mastery',
+    'Cloud Architecture Design'
+  ],
+  currentMission: {
+    learning: ['Advanced AI/ML', 'Quantum Computing Basics'],
+    exploring: ['Cutting-Edge Technologies', 'Emerging Innovations']
+  },
+  philosophicalCode: [
+    'Continuous Learning',
+    'Problem-Solving Creativity',
+    'Technological Empowerment'
+  ]
 };
 ```
 
-## 📊 Performance Metrics
+## 📊 Performance Visualization
 
-### 🏆 GitHub Achievements
+### 🏆 Achievement Constellation
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tharuksha&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tharuksha&theme=onedark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
-### 📈 Comprehensive Analytics
+### 📈 Comprehensive Code Metrics
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=tharuksha&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=tharuksha&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=tharuksha&theme=transparent&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=tharuksha&theme=transparent" alt="Streak Stats"/>
 </p>
 
-### 🔍 Detailed Code Insights
+### 🔍 Technological Insights
 ![Metrics](https://metrics.lecoq.io/tharuksha?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&config.timezone=Asia%2FColombo)
 
-## 🌍 Tech Exploration Zones
+## 🌍 Innovation Horizons
 
-### 🎮 Game Development Realm
-- 3D Game Mechanics Design
-- Cross-Platform Game Development
-- Interactive Storytelling
-- Performance Optimization
+### 🎮 Game Development Frontier
+- Procedural Game Mechanics
+- Cross-Platform Game Engineering
+- Interactive Narrative Design
+- Performance Optimization Strategies
 
-### ☁️ Cloud Innovation Frontier
-- Serverless Architecture
-- Microservices Design
-- Cloud-Native Applications
-- DevOps Practices
+### ☁️ Cloud Innovation Laboratory
+- Serverless Architecture Design
+- Microservices Ecosystem
+- Cloud-Native Application Development
+- DevOps & CI/CD Methodologies
 
-### 🤖 Emerging Tech Horizons
-- Machine Learning Foundations
-- IoT Ecosystem Development
-- AI-Driven Solutions
-- Blockchain Fundamentals
+### 🤖 Emerging Technology Exploration
+- Artificial Intelligence Integration
+- Machine Learning Algorithms
+- Internet of Things (IoT) Solutions
+- Blockchain Technology Foundations
 
-## 🌟 Interactive Project Showcase
+## 🌟 Project Showcase
 
 ### 📦 Featured Repositories
 <p align="center">
   <a href="https://github.com/tharuksha/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharuksha&repo=project1&theme=radical" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharuksha&repo=project1&theme=transparent" alt="Project 1" />
   </a>
   <a href="https://github.com/tharuksha/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharuksha&repo=project2&theme=radical" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharuksha&repo=project2&theme=transparent" alt="Project 2" />
   </a>
 </p>
 
-## 🔗 Professional Networking
+## 🔗 Connection Portals
 
-### 🌐 Connect Channels
+### 🌐 Professional Networks
 <p align="center">
   <a href="mailto:hello@tharuksha.com">
-    <img alt="Email" src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/QUANTUM_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/tharuksha">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/PROFESSIONAL_NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://dev.to/doba">
-    <img alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+    <img alt="Dev.to" src="https://img.shields.io/badge/TECH_INSIGHTS-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
 </p>
 
-### 💬 Social Platforms
+### 💬 Digital Social Channels
 <p align="center">
   <a href="https://instagram.com/doba_03_09">
-    <img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/VISUAL_STORIES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discord.gg/DobA#0393">
-    <img alt="Discord" src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img alt="Discord" src="https://img.shields.io/badge/TECH_COMMUNITY-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
-## 💡 Quantum Personality Insights
+## 💡 Quantum Personality Matrix
 
-### 🎲 Random Developer Perspectives
-- 🌈 Creativity Enthusiast
-- 🧩 Problem-Solving Ninja
-- 🚀 Technology Adventurer
-- 🎨 Design-Driven Developer
+### 🎲 Multidimensional Perspectives
+- 🌈 Creative Technological Alchemist
+- 🧩 Strategic Problem-Solving Architect
+- 🚀 Innovation Cultivation Specialist
+- 🎨 Design-Driven Technological Artist
 
-## 🔮 Future Tech Vision
+## 🔮 Philosophical Technology Quotient
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
-</p>
+  
+  ### 👀 Cosmic Interaction Tracker
+  ![Visitor Count](https://profile-counter.glitch.me/tharuksha/count.svg)
+</div>
 
-<p align="center">
-  <strong>👀 Cosmic Visitors Counter</strong><br>
-  <img src="https://profile-counter.glitch.me/tharuksha/count.svg" alt="Visitor Count" />
-</p>
-
-✨ Crafted with quantum innovation by Tharuksha Wickramarachchi
+✨ Engineered with Quantum Creativity by Tharuksha Wickramarachchi
