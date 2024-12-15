@@ -16,15 +16,11 @@
   <tr>
     <td align="center" width="33%">
       <h3>🔧 Languages & Frameworks</h3>
-      <img src="https://skillicons.dev/icons?i=cpp,c,java,js,php,python,html,css,lua" alt="Programming Languages" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🎮 Development Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=unity,unreal,blender,arduino,raspberrypi" alt="Development Platforms" />
-    </td>
+      <img src="https://skillicons.dev/icons?i=cs,java,js,react,tailwind,html,css,lua,mongodb,mysql,nodejs" alt="Programming Languages" />
+    
     <td align="center" width="33%">
       <h3>☁️ Cloud & Infrastructure</h3>
-      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,git,github" alt="Cloud & Tools" />
+      <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,github" alt="Cloud & Tools" />
     </td>
   </tr>
 </table>
@@ -35,7 +31,7 @@ const digitalDNA = {
   coreCompetencies: [
     'Innovative Software Engineering',
     'Game Development Mastery',
-    'Cloud Architecture Design'
+    
   ],
   currentMission: {
     learning: ['Advanced AI/ML', 'Quantum Computing Basics'],
@@ -69,19 +65,11 @@ const digitalDNA = {
 
 ### 🎮 Game Development Frontier
 - Procedural Game Mechanics
-- Cross-Platform Game Engineering
 - Interactive Narrative Design
 - Performance Optimization Strategies
 
-### ☁️ Cloud Innovation Laboratory
-- Serverless Architecture Design
-- Microservices Ecosystem
-- Cloud-Native Application Development
-- DevOps & CI/CD Methodologies
-
 ### 🤖 Emerging Technology Exploration
 - Artificial Intelligence Integration
-- Machine Learning Algorithms
 - Internet of Things (IoT) Solutions
 - Blockchain Technology Foundations
 
@@ -89,10 +77,10 @@ const digitalDNA = {
 
 ### 📦 Featured Repositories
 <p align="center">
-  <a href="https://github.com/tharuksha/project1">
+  <a href="https://github.com/Tharuksha/GovHUB-frontend-customer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharuksha&repo=project1&theme=transparent" alt="Project 1" />
   </a>
-  <a href="https://github.com/tharuksha/project2">
+  <a href="https://github.com/Tharuksha/GovHUB-frontend-admin">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharuksha&repo=project2&theme=transparent" alt="Project 2" />
   </a>
 </p>
