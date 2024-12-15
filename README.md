@@ -1,35 +1,113 @@
-<h1 align="center">Hi 👋, I'm Tharuksha Wickramarachchi</h1>
-<h3 align="center">A Passionate Software Engineer from Sri Lanka</h3>
+# Hi there, I'm Tharuksha Wickramarachchi 👋🏽 
 
-<br>
-<img class="center" alt="Coding" width="1000" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br>
+## 🌈 About Me
+I'm a passionate Software Engineer from Sri Lanka, transforming innovative ideas into cutting-edge digital solutions. With a diverse tech arsenal and an insatiable curiosity, I'm on a mission to push the boundaries of technology.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tharuksha&label=Profile%20views&color=0e75b6&style=flat" alt="tharuksha" /> </p><br>
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharuksha&no-frame=true&theme=tokyonight" alt="tharuksha" /></a> </p><br>
+### 🚀 Quick Stats
+![Profile Views](https://komarev.com/ghpvc/?username=tharuksha&color=blueviolet&style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B11F7&width=435&lines=Software+Engineer;Game+Developer;Cloud+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Lua Language**
+## 🏆 Achievements & Highlights
+- 🥇 Multiple Technology Certifications
+- 🌟 Active Open Source Contributor
+- 💡 Innovative Problem Solver
+- 🌐 Multi-Platform Developer
 
-- 📫 How to reach me **hello@tharuksha.com**
+## 💻 Technology Ecosystem
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/doba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="doba" height="30" width="40" /></a>
-<a href="https://fb.com/tharuksha namuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharuksha namuditha" height="30" width="40" /></a>
-<a href="https://instagram.com/doba_03_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doba_03_09" height="30" width="40" /></a>
-<a href="https://discord.gg/DobA#0393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DobA#0393" height="30" width="40" /></a>
+### 📚 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,javascript,php,html,js,css,lua" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### 🛠 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,mysql,git,github,unity,unreal,androidstudio,blender,photoshop,illustrator,arduino" />
+</p>
 
-<br>
-<h1> || STATS || </h1>
+## 🔥 GitHub Performance
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharuksha&show_icons=true&theme=transparent" alt="tharuksha" />
+### 📊 Comprehensive Analytics
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=tharuksha&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=tharuksha&theme=radical" />
+</p>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharuksha&show_icons=true&theme=transparent" alt="tharuksha" />
+### 🏅 Detailed Metrics
+![Metrics](https://metrics.lecoq.io/tharuksha?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&config.timezone=Asia%2FColombo)
 
-&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharuksha&show_icons=true&theme=transparent" alt="tharuksha" /></p>
+### 📈 Contribution Graph
+![Tharuksha's Graph](https://github-readme-activity-graph.vercel.app/graph?username=tharuksha&theme=radical&bg_color=000000&color=ffffff&line=7B11F7&point=FFFFFF)
 
+## 🌍 Development Domains
 
+### 🎮 Game Development
+- Unity Game Engine
+- Unreal Engine
+- 3D Modeling & Animation
+- Game Design Mechanics
+
+### ☁️ Cloud Technologies
+- AWS Solutions Architecture
+- Microsoft Azure
+- Cloud Infrastructure
+- Serverless Computing
+
+### 🤖 Emerging Technologies
+- Machine Learning Basics
+- IoT Project Development
+- Embedded Systems
+- Automation Solutions
+
+## 🌱 Current Learning Journey
+- Advanced Lua Programming
+- Cloud Native Technologies
+- Advanced Game Development Techniques
+- AI & Machine Learning Fundamentals
+
+## 🔗 Connect & Collaborate
+
+### 🌐 Professional Networks
+<p align="center">
+  <a href="mailto:hello@tharuksha.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tharuksha">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dev.to/doba">
+    <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+</p>
+
+### 💬 Social Platforms
+<p align="center">
+  <a href="https://instagram.com/doba_03_09">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/tharuksha.namuditha">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/DobA#0393">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+## 💡 Fun Facts
+- 🎲 Gaming Enthusiast
+- 🎨 Digital Art Creator
+- 🌐 Multilingual Tech Explorer
+- ♟️ Strategic Thinker
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <strong>👀 Visitors Count</strong><br>
+  <img src="https://profile-counter.glitch.me/tharuksha/count.svg" />
+</p>
+
+✨ Crafted with passion by Tharuksha Wickramarachchi
