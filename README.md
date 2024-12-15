@@ -78,10 +78,10 @@ const digitalDNA = {
 ### 📦 Featured Repositories
 <p align="center">
   <a href="https://github.com/Tharuksha/GovHUB-frontend-customer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharuksha&repo=project1&theme=transparent" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharuksha&repo=GovHUB-frontend-customer&theme=transparent" alt="Project 1" />
   </a>
   <a href="https://github.com/Tharuksha/GovHUB-frontend-admin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharuksha&repo=project2&theme=transparent" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharuksha&repo=GovHUB-frontend-admin&theme=transparent" alt="Project 2" />
   </a>
 </p>
 
