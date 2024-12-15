@@ -17,7 +17,8 @@
     <td align="center" width="33%">
       <h3>🔧 Languages & Frameworks</h3>
       <img src="https://skillicons.dev/icons?i=cs,java,js,react,tailwind,html,css,lua,mongodb,mysql,nodejs" alt="Programming Languages" />
-    
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <h3>☁️ Cloud & Infrastructure</h3>
       <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,github" alt="Cloud & Tools" />
