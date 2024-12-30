@@ -1,4 +1,4 @@
-# 🌠 Tharuksha Wickramarachchi | Digital Architect
+# 🌠 Tharuksha Wickramarachchi | Tech Enthusiastic 
 
 ## 💫 Quantum Profile Dynamics
 
@@ -7,7 +7,8 @@
 </div>
 
 ### 🚀 Technological Resonance
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00F7F7&center=true&vCenter=true&width=900&lines=💻+Software+Engineer+%7C+Game+Developer+%7C+Cloud+Innovator+%7C+Tech+Visionary)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=1000&vCenter=true&width=600&lines=Software+Engineer+%7C+Fresh+Graduate+%7C+Tech+Enthusiastic)](https://git.io/typing-svg)
 
 ## 🌈 Technological Constellation
 
@@ -19,7 +20,7 @@
       <img src="https://skillicons.dev/icons?i=cs,java,js,react,tailwind,html,css,lua,mongodb,mysql,nodejs" alt="Programming Languages" />
     </td>
     <td align="center" width="33%">
-      <h3>☁️ Cloud & Infrastructure</h3>
+      <h3>🔧 Tools </h3>
       <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,github" alt="Cloud & Tools" />
     </td>
   </tr>
@@ -34,7 +35,7 @@ const digitalDNA = {
     
   ],
   currentMission: {
-    learning: ['Advanced AI/ML', 'Quantum Computing Basics'],
+    learning: ['NextJS', 'React'],
     exploring: ['Cutting-Edge Technologies', 'Emerging Innovations']
   },
   philosophicalCode: [
@@ -58,20 +59,6 @@ const digitalDNA = {
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=tharuksha&theme=transparent" alt="Streak Stats"/>
 </p>
 
-### 🔍 Technological Insights
-![Metrics](https://metrics.lecoq.io/tharuksha?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&config.timezone=Asia%2FColombo)
-
-## 🌍 Innovation Horizons
-
-### 🎮 Game Development Frontier
-- Procedural Game Mechanics
-- Interactive Narrative Design
-- Performance Optimization Strategies
-
-### 🤖 Emerging Technology Exploration
-- Artificial Intelligence Integration
-- Internet of Things (IoT) Solutions
-- Blockchain Technology Foundations
 
 ## 🌟 Project Showcase
 
@@ -89,7 +76,7 @@ const digitalDNA = {
 
 ### 🌐 Professional Networks
 <p align="center">
-  <a href="mailto:hello@tharuksha.com">
+  <a href="mailto:tharuksha_w@pm.me">
     <img alt="Email" src="https://img.shields.io/badge/QUANTUM_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/tharuksha">
@@ -130,4 +117,4 @@ const digitalDNA = {
   ![Visitor Count](https://profile-counter.glitch.me/tharuksha/count.svg)
 </div>
 
-✨ Engineered with Quantum Creativity by Tharuksha Wickramarachchi
+✨ Deisgn by Tharuksha Wickramarachchi
